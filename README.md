@@ -25,7 +25,7 @@ This project simulates a **write-through** or **write-back** direct-mapped cache
 - Cache misses
 - Main memory reads and writes
 
-The project is structured to accept different trace files that simulate memory operations, showcasing cache efficiency in terms of read and write policies. For more detailed information about the project and cache algorithms, refer to the [Project Documentation](./docs/pa3.pdf).
+The project is structured to accept different trace files that simulate memory operations, showcasing cache efficiency in terms of read and write policies. For more detailed information about the project and cache algorithms.
 
 ---
 
